@@ -1,3 +1,2 @@
-# GoogleClone.io
 Google Clone
-Demo : https://toomnineteen.github.io/GoogleClone.io/
+Demo : https://toomnineteen.github.io/GoogleClone/
